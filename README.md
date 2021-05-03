@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridEsnaashari&layout=compact)](https://github.com/faridEsnaashari/github-readme-stats)
 
 ## ⚡These are just some hooks I created for REACTJS
-- [useErrorSender](https://github.com/faridEsnaashari/useErrorSender)
-- [useConnectionChecker](https://github.com/faridEsnaashari/useConnectionChecker)
+- [useErrorSender](https://github.com/faridEsnaashari/useErrorSender).   (this package on [npm](https://www.npmjs.com/package/useconnectionchecker))
+- [useConnectionChecker](https://github.com/faridEsnaashari/useConnectionChecker).   (this package on [npm](https://www.npmjs.com/package/use-error-sender))
 
 ## :man_mechanic:Current **side project** which I’m working on it:
 ### Shape generator:
