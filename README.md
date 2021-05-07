@@ -10,10 +10,10 @@
 - [useConnectionChecker](https://github.com/faridEsnaashari/useConnectionChecker).   (this package on [npm](https://www.npmjs.com/package/use-error-sender))
 
 ## :man_mechanic:Current **side project** which I’m working on it:
-### Shape generator:
-It is just a fun project that a presenter can use to draw some shapes and send them to all participant in time.
-- This is its react app: [repo](https://github.com/faridEsnaashari/shapesGenerator)
-- This is its API: [repo](https://github.com/faridEsnaashari/shapeGenerator_api)
+### Board broadcaster:
+It is just a fun project that a presenter can use to draw some shapes on aboard and send them to all participant in time.
+- This is its react app: [repo](https://github.com/faridEsnaashari/boardBroadcaster)
+- This is its API: [repo](https://github.com/faridEsnaashari/boardBroadcaster_api)
 
 ## 📫You can get in touch with me, by these ways:
 - Email:
